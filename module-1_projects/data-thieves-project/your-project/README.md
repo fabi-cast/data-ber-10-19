@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Natural Events and Climate change
+Fabiana Castiblanco
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Oct.2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -15,16 +15,24 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+
+In this project we do an exploratory analysis of the ocurrence of natural events (aka. disasters) like Severe Storms, Wildfires, Volcanoes, Earthquakes, etc. and its relationship with the global emissions of CO2 over the years. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+
+Primarily we want to ask the question: Is there a correlation between natural disasters ocurrences and emissions of CO2?
+
+It is well known the fact that the emissions of CO2 contribute to the global warming phenomenon, but, are they related somehow with the ocurrences e.g. of Wildfires or severe storms?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+
+### * Natural Events: 
+We use the EONET API v.2.1 by NASA:  https://eonet.sci.gsfc.nasa.gov/docs/v2.1
+
+### * CO2 emissions:
+We extract datasets in xls format from Global carbon Atlas: http://globalcarbonatlas.org/en/CO2-emissions.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
