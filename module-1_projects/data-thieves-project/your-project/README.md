@@ -16,35 +16,59 @@ Fabiana Castiblanco
 
 ## Project Description
 
-In this project we do an exploratory analysis of the ocurrence of natural events (aka. disasters) like Severe Storms, Wildfires, Volcanoes, Earthquakes, etc. and its relationship with the global emissions of CO2 over the years. 
+In this project we do an exploratory analysis of the ocurrence of natural events (aka. disasters) like Severe Storms, Wildfires, Volcanoes, Earthquakes, etc. and their relationship with global emissions of CO2 over the years. 
 
 ## Questions & Hypotheses
 
-Primarily we want to ask the question: Is there a correlation between natural disasters ocurrences and emissions of CO2?
+Is there a correlation between natural disasters ocurrences and emissions of CO2?
 
-It is well known the fact that the emissions of CO2 contribute to the global warming phenomenon, but, are they related somehow with the ocurrences e.g. of Wildfires or severe storms?
+It is well known the fact that emissions of CO2 contribute to the global warming phenomenon. Are they also related somehow with the occurrences e.g. of Wildfires or severe storms?
 
 ## Dataset
 
 ### * Natural Events: 
-We use the EONET API v.2.1 by NASA:  https://eonet.sci.gsfc.nasa.gov/docs/v2.1
+
+We use the EONET API v.2.1 by NASA:  https://eonet.sci.gsfc.nasa.gov/docs/v2.1 to obtain data about the natural events occurred since 1980 up today.
 
 ### * CO2 emissions:
-We extract datasets in xls format from Global carbon Atlas: http://globalcarbonatlas.org/en/CO2-emissions.
+We extract three different reports in .xlsx format from Global carbon Atlas: http://globalcarbonatlas.org/en/CO2-emissions. 
+
+The data contains information about CO2 (territorial) emissions since 1960 until 2017 for each country in three different units:
+
+* MtCO2 = 1 million tonnes of CO2
+* Carbon intensity: measured as kgCO2 per GDP. 
+  This refers to total CO2 emissions divided by GDP (Gross Domestic Product measured in US dollars)
+* tCO2 per person = tonnes CO2 per person.
+CO2 emissions per person are measured as the total CO2 produced by a country as a consequence of human activities and are divided by the     population of that country.
 
 ## Database
 
+
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+
+1. Define the main topic of the project and state relevant questions to answer
+2. Extract relevant data from the EONET API
+3. Search information about CO2 measurements at a global scale
+4. Data wrangling
+5. Data exploration
+6. Data visualization pairing the variables to answer our main question
+7. Draw our findings
+8. Propose new questions to give continuity to our project
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
 
-What does your repository look like? Explain your folder and file structure.
+This repository is made up of three main components:
+
+* The jupyter notebook disasters.ipynb explains in detail the data extraction and data wrangling procedure, the scales used in measurements of CO2, the structure of the data base, as well as the code for the plots to show our main findings.
+
+* Files in format csv containing the clean dataframes we used for drawing our findings:  emissions_CO2.csv, emissions_CO2_2017.csv, emissions_events.csv, natural_events.csv. 
+
+Files in format .xlsx extracted from Global Carbon Atlas (raw data): emissions_tco2.xlsx, emissions_kgco2.xlsx, emissions_mtco2.xlsx, land_use_change.xlsx
+
+* A file slides.pdf presenting the main findings. 
+
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/fabi-cast/data-ber-10-19/edit/master/module-1_projects/data-thieves-project/your-project/README.md)  
