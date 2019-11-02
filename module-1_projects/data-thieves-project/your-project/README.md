@@ -72,6 +72,9 @@ Files in format .xlsx extracted from Global Carbon Atlas (raw data): emissions_t
 ## Links
 
 [Repository](https://github.com/fabi-cast/data-ber-10-19/tree/master/module-1_projects/data-thieves-project/your-project) 
+
 [Nasa Global Climate change](https://climate.nasa.gov/)
+
 [EONET](https://eonet.sci.gsfc.nasa.gov/docs/v2.1)
+
 [Global Carbon Atlas](http://globalcarbonatlas.org/en/CO2-emissions)
