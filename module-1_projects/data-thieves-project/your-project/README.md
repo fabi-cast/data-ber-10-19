@@ -71,4 +71,4 @@ Files in format .xlsx extracted from Global Carbon Atlas (raw data): emissions_t
 
 ## Links
 
-[Repository](https://github.com/fabi-cast/data-ber-10-19/edit/master/module-1_projects/data-thieves-project/your-project/README.md)  
+[Repository](https://github.com/fabi-cast/data-ber-10-19/tree/master/module-1_projects/data-thieves-project/your-project)  
