@@ -60,11 +60,11 @@ CO2 emissions per person are measured as the total CO2 produced by a country as 
 
 This repository is made up of three main components:
 
-* The jupyter notebook events_climate_change.ipynb explains in detail the data extraction and data wrangling procedure, the scales used in measurements of CO2, the structure of the data base, as well as the code for the plots to show our main findings.
+* The jupyter notebook ```events_climate_change.ipynb``` explains in detail the data extraction and data wrangling procedure, the scales used in measurements of CO2, the structure of the data base, as well as the code for the plots to show our main findings.
 
-* Files in format csv containing the clean dataframes we used for drawing our findings:  emissions_CO2.csv, emissions_CO2_2017.csv, emissions_events.csv, natural_events.csv. 
+* Files in format csv containing the clean dataframes we used for drawing our findings:  ```emissions_CO2.csv```, ```emissions_CO2_2017.csv```, ```emissions_events.csv```, ```natural_events.csv```. 
 
-Files in format .xlsx extracted from Global Carbon Atlas (raw data): emissions_tco2.xlsx, emissions_kgco2.xlsx, emissions_mtco2.xlsx, land_use_change.xlsx
+Files in format .xlsx extracted from Global Carbon Atlas (raw data): ```emissions_tco2.xlsx```, ```emissions_kgco2.xlsx```, ```emissions_mtco2.xlsx```, ```land_use_change.xlsx```.
 
 * A file slides.pdf presenting the main findings. 
 
