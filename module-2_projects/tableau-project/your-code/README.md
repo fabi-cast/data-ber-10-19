@@ -17,6 +17,8 @@ However, for accessing the IUCN's API was a requisite request a token and we had
 
 After this inconvenience, we had to work with data relative to 2016 available at https://jadonwagstaff.github.io/big_data/visualization.
 
+We did some basic data cleaning, create and export a new derived dataset in order to find the distribution per Group (Birds, Mammals, etc.) of the aggregated data.  For details, see the notebook `endangered_species` contained in this folder.
+
 ## 3. Description of Story's elements
 
 ### 3.1. Worksheets & Dashboards
