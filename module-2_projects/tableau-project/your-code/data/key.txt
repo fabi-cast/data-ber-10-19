@@ -1,0 +1,37 @@
+summary.csv
+Index			Key used for reordering
+Country			Alphabetical order within region
+Region			Africa: North Africa, Sub-Sahara Africa
+				Antarctic
+				Asia: East Asia, North Asia, South & Southeast Asia, West & Central Asia
+				Europe
+				North & Central America: Mesoamerica, Caribbean Islands, North America
+				South America
+				Oceania
+CC				country code
+
+Mammals			(CR+EN+VU) fully assessed (>80%)
+Birds			(CR+EN+VU) fully assessed (>80%)
+Reptiles		(CR+EN+VU) not fully assessed (<80%)
+Amphibians		(CR+EN+VU) fully assessed (>80%)
+Fish			(CR+EN+VU) not fully assessed (<80%)
+Molluscs		(CR+EN+VU) not fully assessed (<80%)
+Other_Inverts	(CR+EN+VU) not fully assessed (<80%)
+Plants			(CR+EN+VU) not fully assessed (<80%)
+Fungi_Protists	(CR+EN+VU) not fully assessed (<80%)
+
+EX		 		extinct
+EW				extinct in the wild
+CR				critically endangered (included in red list)
+EN				endangered (included in red list)
+VU				vulnerable (included in red list)
+NT				near threatened
+DD				data deficient
+LC				least concern	
+SP				total number of native species
+ED				total number of endemic species
+TH_ED			number of endemics on red list
+
+T				Total animals
+M				Mammals
+A				Amphibians
