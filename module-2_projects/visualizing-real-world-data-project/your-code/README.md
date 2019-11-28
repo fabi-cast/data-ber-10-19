@@ -7,9 +7,10 @@ Fabiana Castiblanco
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-hypotheses)
-- [Datasets](#datasets)
+- [Main Question](#main-question)
+- [Data Sources](#data-sources)
 - [Workflow](#workflow)
+- [Tech Stack](#tech-stack)
 - [Organization](#organization)
 - [Links](#links)
 
@@ -17,7 +18,7 @@ Fabiana Castiblanco
 
 In this project our goal is to give key insights about the status of the Polar bears using python packages for data visualization. We expect to depict important connections between the survivance of this species with climate change consequences such as the rising level sea and the decreasing of ice layers.  
 
-## Questions & Hypotheses
+## Main Question
 
 How is climate change affecting the global population of polar bears?
 
@@ -40,7 +41,7 @@ For sea ice index measurements, we collect datasets from the ftp service of [Nat
 ## Workflow
 
 1. Define the main topic of the project and state relevant questions to answer
-2. Research about polar bear main facts 
+2. Scientific Research about Polar Bear species 
 3. Extract relevant data about the species and climate change factors closely related
 4. Data wrangling
 5. Data exploration
@@ -65,7 +66,7 @@ This repository is made up of two main components:
 
 * The jupyter notebook ```polar_bears.ipynb``` explains in detail the data extraction and data wrangling procedure, the scales used in measurements of quantitative variables and the code for the plots to show our main findings.
 
-* A folder ``data`` with two subfolders ``data_raw`` and ``data_clean`` containing all the relevant and public domain sources.
+* A folder ``data`` with two subfolders ``raw_data`` and ``clean_data`` containing all the relevant and public domain sources.
 
 
 ## Links
