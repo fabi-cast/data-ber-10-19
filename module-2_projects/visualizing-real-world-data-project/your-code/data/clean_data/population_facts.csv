@@ -1,0 +1,20 @@
+,Subpopulation,Country,Latitude,Longitude,Subpopulation_size,Method_evidence,Year,Trend_long_term,Trend_short_term,Sea_ice_spring_retreat,Sea_ice_fall_advance,Summer_sea_ice_area,Quota_bears_per_year,Actual_human_caused_removals,CI_lim_inf,CI_lim_sup
+0,Arctic Basin,,73.0364,-85.1525,489,Density extrapolation,2018,DD,DD,-9.8,14.3,-7.4,,,248,725
+1,Baffin Bay,Canada / Denmark,27.2535,-97.5098,2826,Genetic C-R,2013,DD,DD,-6.1,3.9,-18.9,137.8,135.8,2059,3593
+2,Barents Sea,Norway,74.988396,37.106369,2644,Distance Sampling,2004,DD,Likely stable (2004-2015),-16.0,25.2,19.6,,,1899,3592
+3,Chukchi Sea,USA,71.3333,-156.3333,2937,Physical C-R with density extrapolation,2016,DD,Likely stable (2008-2016),-6.3,6.8,-25.9,85.0,47.4,1552,5944
+4,Davis Strait,Canada / Denmark,61.8833,-65.95,2158,Physical C-R,2007,DD,Likely stable (2007-2016),-5.6,6.7,-19.2,75.8,84.4,1833,2542
+5,East Greenland Sea,Greenland,65.0833,-13.5,991,Density extrapolation,2018,DD,DD,-7.0,8.4,-7.9,,,501,1469
+6,Foxe Basin,Canada,67.0,-77.0,2585,Mark-recapture distance sampling,2010,Stable (1994-2010),Stable (1994-2010),-4.5,4.6,-14.1,117.2,103.8,2096,3189
+7,Gulf of Boothia,Canada,63.0,20.0,1592,Physical C-R,2000,Likely stable (2000-2017),Likely stable (2000-2017),-8.0,6.6,-13.6,72.4,61.8,870,2314
+8,Kane Basin,Canada / Greenland,79.075,-73.08611,357,Genetic C-R,2014,DD,Likely increased (1997-2014),-6.9,4.6,-9.8,11.0,8.0,221,493
+9,Kara Sea,Russia,74.82583003,71.307165438,989,Density extrapolation,2018,DD,DD,-9.7,8.9,-22.7,,,500,1466
+10,Lancaster Sound,Canada,74.2166658,-84.0,2541,Physical C-R,1997,DD,DD,-5.6,3.8,-7.5,84.8,80.0,1759,3323
+11,Laptev Sea ,Russia,76.166666,138.83333,812,Density extrapolation,2018,DD,DD,-6.7,7.2,-17.5,,,411,1203
+12,M’Clintock Channel ,Canada,72.0,-102.0,284,Physical C-R,2000,Very likely increased (2000-2016),Very likely increased (2000-2016),-4.2,4.7,-9.0,8.8,7.8,166,402
+13,Northern Beaufort Sea ,Canada,76.2666656,-124.1333328,980,Physical C-R,2006,Likely decreased (2006-2018),Likely decreased (2013-2018),-7.2,2.6,-6.5,142.2,83.0,825,1135
+14,Norwegian Bay ,Norway,77.493164694,-90.493164694,203,Physical C-R,1997,DD,DD,-1.8,3.9,-1.7000000000000002,4.0,2.0,115,291
+15,Southern Beaufort Sea ,Canada / USA,72.13923071,-136.82924749,907,Physical C-R,2010,Likely decreased (1967-2010),Likely decreased (2001-2010),-9.7,8.6,-25.3,134.4,62.4,548,1270
+16,Southern Hudson Bay ,Canada,60.0,-85.0,780,Mark-recapture distance sampling,2016,Very Likely decreased (1986-2016),Likely decreased (2012-2016),-1.9,3.1,-8.5,51.6,36.4,590,1029
+17,Viscount Melville Sound ,Canada,74.0,-108.0,161,Physical C-R,1992,DD,DD,-5.5,7.1,-5.4,7.0,3.6,93,229
+18,Western Hudson Bay ,Canada,49.282508,-123.117113,842,Mark-recapture distance sampling,2016,Very Likely decreased (1995-2016),Likely decreased (2011-2016),-5.9,3.2,-21.8,31.6,29.6,562,1121
