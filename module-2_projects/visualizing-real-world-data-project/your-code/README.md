@@ -16,7 +16,7 @@ Fabiana Castiblanco
 
 ## Project Description
 
-In this project our goal is to give key insights about the status of the Polar bears using python packages for data visualization. We expect to depict important connections between the survivance of this species with climate change consequences such as the rising temperatures anomalies and the decreasing of ice extent.  
+In this project our goal is to give key insights about the status of the Polar bears using python packages for data visualization. We expect to depict important connections between the survival of this species with climate change consequences such as the rising temperatures anomalies and the decreasing of ice extent.  
 
 ## Main Question
 
